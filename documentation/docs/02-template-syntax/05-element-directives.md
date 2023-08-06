@@ -2,7 +2,7 @@
 title: Element directives
 ---
 
-As well as attributes, elements can have _directives_, which control the element's behaviour in some way.
+As well as attributes, elements can have _directives_, which control the element's behavior in some way.
 
 ## on:_eventname_
 
